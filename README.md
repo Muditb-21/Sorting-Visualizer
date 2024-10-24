@@ -1,22 +1,22 @@
 # Sorting Visualizer
 
-This is a web application built using **React** that allows you to visualize various sorting algorithms in action. You can observe how different algorithms manipulate and rearrange elements in real time, providing a visual representation of the sorting process.
+This is a web application built using **React** that allows you to visualize various sorting algorithms in action. You can observe how different algorithms manipulate and rearrange elements in real-time, providing a visual representation of the sorting process.
 
-The Sorting Visualizer is accessible through the following link: [https://sorting-visualiser-mudit.netlify.app/](https://sorting-visualiser-mudit.netlify.app/)
+The Sorting Visualizer is accessible through the following link: [https://sorting-visualizer-mudit21.netlify.app)
 
 ## Features
 
 - **Sorting Algorithms**: The application supports several popular sorting algorithms, including Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, Quick Sort, and Heap Sort. You can choose any algorithm and observe its execution step-by-step.
 
-- **Random Array Generation**: The application generates random arrays of various sizes to demonstrate the sorting algorithms. The size of the array can be adjusted, allowing you to observe the behavior of the sorting algorithms with different input sizes.
+- **Random Array Generation**: The application generates random arrays of various sizes to demonstrate the sorting algorithms. The size of the array can be adjusted, allowing you to observe the behaviour of the sorting algorithms with different input sizes.
 
 - **Speed Control**: You can control the speed at which the sorting algorithms execute. The speed slider enables you to adjust the delay between each step of the sorting process, providing a clear visualization of the algorithm's operations.
 
-- **Color-coded Visualization**: The application utilizes color-coded bars to represent the sorted elements. The height of the bars corresponds to the magnitude of the elements, while different colors help distinguish between sorted and unsorted elements.
+- **Color-coded Visualization**: The application utilizes colour-coded bars to represent the sorted elements. The height of the bars corresponds to the magnitude of the elements, while different colours help distinguish between sorted and unsorted elements.
 
 - **Attractive UI and Dark Mode**: The application comes with an attractive landing page that makes the webpage attractive. Dark Mode is also added for the user's preference.
 
-- **Algorithm Descriptions**: Each sorting algorithm comes with a brief description, explaining its logic and how it operates. This information can be accessed in the sidebar, allowing you to better understand each algorithm's behavior.
+- **Algorithm Descriptions**: Each sorting algorithm comes with a brief description, explaining its logic and how it operates. This information can be accessed in the sidebar, allowing you to better understand each algorithm's behaviour.
 
 - **Responsive Design**: The web application is designed to be responsive and works well on various devices, including desktops, laptops, tablets, and mobile phones. You can enjoy the sorting visualizations and explore the algorithms regardless of the device you're using.
 
