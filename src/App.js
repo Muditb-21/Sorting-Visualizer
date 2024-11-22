@@ -16,8 +16,7 @@ function App() {
       <Navbar darkMode={isDarkMode} />
       <Sidebar darkMode={isDarkMode} toggle={toggleMode} undefined="true" setPage={setPage} />
       <MainPage page={page} darkMode={isDarkMode} />
-      {/* <h1 >bus kar bsdk</h1>
-      <h1>working on heap sort</h1> */}
+     
     </div >
   );
 }
